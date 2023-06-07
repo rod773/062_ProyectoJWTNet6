@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkSpaceAD\\YOUTUBE\\062_FUNCIONALIDAD JWT API CORE\\MEDIAFIRE_SUBIR\\RESTAPI_CORE\\RESTAPI_CORE\\RESTAPI_CORE.csproj": {}
+    "D:\\PROYECTO\\projecto\\062_ProyectoJWTNet6\\PROYECTO_API_JWT\\RESTAPI_CORE\\RESTAPI_CORE.csproj": {}
   },
   "projects": {
-    "E:\\WorkSpaceAD\\YOUTUBE\\062_FUNCIONALIDAD JWT API CORE\\MEDIAFIRE_SUBIR\\RESTAPI_CORE\\RESTAPI_CORE\\RESTAPI_CORE.csproj": {
+    "D:\\PROYECTO\\projecto\\062_ProyectoJWTNet6\\PROYECTO_API_JWT\\RESTAPI_CORE\\RESTAPI_CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\062_FUNCIONALIDAD JWT API CORE\\MEDIAFIRE_SUBIR\\RESTAPI_CORE\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
+        "projectUniqueName": "D:\\PROYECTO\\projecto\\062_ProyectoJWTNet6\\PROYECTO_API_JWT\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
         "projectName": "RESTAPI_CORE",
-        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\062_FUNCIONALIDAD JWT API CORE\\MEDIAFIRE_SUBIR\\RESTAPI_CORE\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
-        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\062_FUNCIONALIDAD JWT API CORE\\MEDIAFIRE_SUBIR\\RESTAPI_CORE\\RESTAPI_CORE\\obj\\",
+        "projectPath": "D:\\PROYECTO\\projecto\\062_ProyectoJWTNet6\\PROYECTO_API_JWT\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTO\\projecto\\062_ProyectoJWTNet6\\PROYECTO_API_JWT\\RESTAPI_CORE\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
